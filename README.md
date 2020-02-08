@@ -1,3 +1,4 @@
-# Nat
-Nathaniel's try after class
+# Lecture
+
+Class lectures
 
